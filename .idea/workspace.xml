@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="55bb5d97-89e2-4906-9244-2f664847fe06" name="Default" comment="" />
+    <list default="true" id="55bb5d97-89e2-4906-9244-2f664847fe06" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/READ.md" afterPath="$PROJECT_DIR$/READ.md" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -432,25 +434,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/READ.md">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="30">
-            <caret line="2" column="16" lean-forward="true" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ChapterI_part_II.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="683">
@@ -466,6 +449,33 @@
           <folding>
             <element signature="e#14#26#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/READ.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="150">
+            <caret line="10" column="7" lean-forward="false" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
         </state>
       </provider>
     </entry>
